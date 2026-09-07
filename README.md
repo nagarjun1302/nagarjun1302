@@ -21,49 +21,49 @@ AI Engineer | Agentic AI & LLM Systems | Full-Stack Developer
 
 #### Languages
 <p>
-<img src="./public/icons/python.svg" height="35" title="Python"/>
-<img src="./public/icons/java.svg" height="35" title="Java"/>
-<img src="./public/icons/c.svg" height="35" title="C"/>
-<img src="./public/icons/cplusplus.svg" height="35" title="C++"/>
+<img src="./public/icons/python.svg" height="35" title="Python"/>&nbsp;&nbsp;
+<img src="./public/icons/java.svg" height="35" title="Java"/>&nbsp;&nbsp;
+<img src="./public/icons/c.svg" height="35" title="C"/>&nbsp;&nbsp;
+<img src="./public/icons/cplusplus.svg" height="35" title="C++"/>&nbsp;&nbsp;
 </p>
 
 #### Frontend & Full-Stack
 <p>
-<img src="./public/icons/html5.svg" height="35" title="HTML5"/>
-<img src="./public/icons/css3.svg" height="35" title="CSS3"/>
-<img src="./public/icons/javascript.svg" height="35" title="JavaScript"/>
-<img src="./public/icons/react.svg" height="35" title="React"/>
-<img src="./public/icons/nextjs.svg" height="35" title="Next.js"/>
+<img src="./public/icons/html5.svg" height="35" title="HTML5"/>&nbsp;&nbsp;
+<img src="./public/icons/css3.svg" height="35" title="CSS3"/>&nbsp;&nbsp;
+<img src="./public/icons/javascript.svg" height="35" title="JavaScript"/>&nbsp;&nbsp;
+<img src="./public/icons/react.svg" height="35" title="React"/>&nbsp;&nbsp;
+<img src="./public/icons/nextjs.svg" height="35" title="Next.js"/>&nbsp;&nbsp;
 </p>
 
 #### Backend & Databases
 <p>
-<img src="./public/icons/nodejs.svg" height="35" title="Node.js"/>
-<img src="./public/icons/fastapi.svg" height="35" title="FastAPI"/>
-<img src="./public/icons/express.svg" height="35" title="Express.js"/>
-<img src="./public/icons/mongodb.svg" height="35" title="MongoDB"/>
-<img src="./public/icons/postgres.svg" height="35" title="PostgreSQL"/>
-<img src="./public/icons/supabase.svg" height="35" title="Supabase"/>
+<img src="./public/icons/nodejs.svg" height="35" title="Node.js"/>&nbsp;&nbsp;
+<img src="./public/icons/fastapi.svg" height="35" title="FastAPI"/>&nbsp;&nbsp;
+<img src="./public/icons/express.svg" height="35" title="Express.js"/>&nbsp;&nbsp;
+<img src="./public/icons/mongodb.svg" height="35" title="MongoDB"/>&nbsp;&nbsp;
+<img src="./public/icons/postgres.svg" height="35" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="./public/icons/supabase.svg" height="35" title="Supabase"/>&nbsp;&nbsp;
 </p>
 
 #### AI & Data
 <p>
-<img src="./public/icons/langchain.svg" height="35" title="LangChain"/>
-<img src="./public/icons/langgraph.svg" height="35" title="LangGraph"/>
-<img src="./public/icons/opencv.svg" height="35" title="OpenCV"/>
-<img src="./public/icons/pandas.svg" height="35" title="Pandas"/>
-<img src="./public/icons/numpy.svg" height="35" title="NumPy"/>
+<img src="./public/icons/langchain.svg" height="35" title="LangChain"/>&nbsp;&nbsp;
+<img src="./public/icons/langgraph.svg" height="35" title="LangGraph"/>&nbsp;&nbsp;
+<img src="./public/icons/opencv.svg" height="35" title="OpenCV"/>&nbsp;&nbsp;
+<img src="./public/icons/pandas.svg" height="35" title="Pandas"/>&nbsp;&nbsp;
+<img src="./public/icons/numpy.svg" height="35" title="NumPy"/>&nbsp;&nbsp;
 </p>
 
 #### Hardware
 <p>
-<img src="./public/icons/raspberrypi.svg" height="35" title="Raspberry Pi"/>
-<img src="./public/icons/esp32.svg" height="35" title="ESP32 (Espressif)"/>
+<img src="./public/icons/raspberrypi.svg" height="35" title="Raspberry Pi"/>&nbsp;&nbsp;
+<img src="./public/icons/esp32.svg" height="35" title="ESP32 (Espressif)"/>&nbsp;&nbsp;
 </p>
 
 #### Tools
 <p>
-<img src="./public/icons/vscode.svg" height="35" title="VS Code"/>
-<img src="./public/icons/git.svg" height="35" title="Git"/>
-<img src="./public/icons/github.svg" height="35" title="GitHub"/>
+<img src="./public/icons/vscode.svg" height="35" title="VS Code"/>&nbsp;&nbsp;
+<img src="./public/icons/git.svg" height="35" title="Git"/>&nbsp;&nbsp;
+<img src="./public/icons/github.svg" height="35" title="GitHub"/>&nbsp;&nbsp;
 </p>
