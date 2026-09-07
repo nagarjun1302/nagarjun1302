@@ -63,7 +63,7 @@ AI Engineer | Agentic AI & LLM Systems | Full-Stack Developer
 
 #### Tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" height="35" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" height="35" title="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" height="35" title="VS Code"/>
+<img src="./public/icons/vscode.svg" height="35" title="VS Code"/>
+<img src="./public/icons/git.svg" height="35" title="Git"/>
+<img src="./public/icons/github.svg" height="35" title="GitHub"/>
 </p>
